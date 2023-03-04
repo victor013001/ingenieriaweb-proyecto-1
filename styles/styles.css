@@ -73,6 +73,10 @@
     color: #FFFFFF;
 }
 
+.text-aline-center {
+    text-align: center;
+}
+
 .font-size-11 {
     font-size: 11px;
 }
@@ -363,6 +367,10 @@
 
 .width-124 {
     width: 124px;
+}
+
+.width-170 {
+    width: 170px;
 }
 
 .width-224 {
