@@ -73,6 +73,10 @@
     color: #FFFFFF;
 }
 
+.text-aline-center {
+    text-align: center;
+}
+
 .font-size-11 {
     font-size: 11px;
 }
@@ -365,6 +369,10 @@
     width: 124px;
 }
 
+.width-170 {
+    width: 170px;
+}
+
 .width-224 {
     width: 224px;
 }
@@ -427,6 +435,22 @@
 
 .rounded-4-top {
     border-radius: 4px 4px 0px 0px;
+}
+
+.rounded-4-top-left {
+    border-radius: 4px 0px 0px 0px;
+}
+
+.rounded-4-top-right {
+    border-radius: 0px 4px 0px 0px;
+}
+
+.rounded-4-bottom-left {
+    border-radius: 0px 0px 0px 4px;
+}
+
+.rounded-4-bottom-right {
+    border-radius: 0px 0px 4px 0px;
 }
 
 .rounded-6-top {
